@@ -1,1 +1,22 @@
 SCENARIO A: 
+
+
+
+SCENARIO B: 
+
+Test case 1. Searching "prowly" in google.com with sort by date.
+
+Preconditions:
+ "SEMrush acquires fast-growing SaaS PR tech company Prowly" news at https://www.prnewswire.com/ from 16.09.2020
+
+Steps: 
+*open google.com
+*write "prowly" in the searchbox 
+*press Enter key or "Google Search" button
+*open "News" tab
+*press "Tools"
+*press "Recent" and set "Custom range" From 9/15/2020 To 9/15/2020
+*press "Go"
+
+Expected result:
+No result from https://www.prnewswire.com/
