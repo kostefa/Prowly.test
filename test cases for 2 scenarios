@@ -21,6 +21,23 @@ Steps:
 *click "Type" and select "Clip-art"
 
 Expected result: Second picture should be Prowly Facebook home page.  
+
+
+Test case 3. Sending a 5 star review for Prowly at Google Maps. 
+
+Preconditions: Created company profile at Google Maps with 4,2 average review points.
+
+Steps:
+*open google.com
+*write "prowly" in the searchbox 
+*press Enter key or "Google Search" button
+*open "Maps" tab
+*click "Write a review" button
+*set 5 starts 
+*click "Post"
+
+Expected result: Average point should change to 4,33
+__________________________________________________________________________
  
 SCENARIO B: 
 
