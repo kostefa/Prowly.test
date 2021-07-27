@@ -1,6 +1,15 @@
 SCENARIO A: 
 
+Test case 1. Searching "prowly" with russian keyboard layout. 
 
+Steps: 
+*open google.com
+*write "зкщцдун" (prowly in russian keyboard layout) in the searchbox
+*press Enter key or "Google Search" button 
+
+Expected result: information about Prowly company and language hint from Google.
+
+Actual result: No results for this request. 
 
 SCENARIO B: 
 
