@@ -9,8 +9,19 @@ Steps:
 
 Expected result: information about Prowly company and language hint from Google.
 
-Actual result: No results for this request.  Screenshot - https://github.com/kostefa/Prowly.test/blob/main/Screenshot%20for%20test%20case%201%20in%20Scenario%20A.png
+[Actual result: No results for this request.]  Screenshot - https://github.com/kostefa/Prowly.test/blob/main/Screenshot%20for%20test%20case%201%20in%20Scenario%20A.png
 
+Test case 2. Searching "prowly" with sort by photo and click the "Prowly" facebook link. 
+Steps:
+*open google.com
+*write "prowly" in the searchbox 
+*press Enter key or "Google Search" button
+*open "Images" tab
+*click "Tools"
+*click "Type" and select "Clip-art"
+
+Expected result: Second picture should be Prowly Facebook home page.  
+ 
 SCENARIO B: 
 
 Test case 1. Searching "prowly" in google.com with sort by date.
