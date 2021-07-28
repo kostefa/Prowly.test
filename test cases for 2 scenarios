@@ -12,6 +12,7 @@ Expected result: information about Prowly company and language hint from Google.
 [Actual result: No results for this request.]  Screenshot - https://github.com/kostefa/Prowly.test/blob/main/Screenshot%20for%20test%20case%201%20in%20Scenario%20A.png
 
 Test case 2. Searching "prowly" with sort by photo and click the "Prowly" facebook link. 
+
 Steps:
 *open google.com
 *write "prowly" in the searchbox 
@@ -23,7 +24,7 @@ Steps:
 Expected result: Second picture should be Prowly Facebook home page.  
 
 
-Test case 3. Sending a 5 star review for Prowly at Google Maps. 
+Test case 3. Sending a 5 star review for Prowly at Google Maps and changing average rating. 
 
 Preconditions: Created company profile at Google Maps with 4,2 average review points.
 
@@ -33,7 +34,7 @@ Steps:
 *press Enter key or "Google Search" button
 *open "Maps" tab
 *click "Write a review" button
-*set 5 starts 
+*set 5 stars 
 *click "Post"
 
 Expected result: Average point should change to 4,33
@@ -52,7 +53,7 @@ Steps:
 *press Enter key or "Google Search" button
 *open "News" tab
 *press "Tools"
-*press "Recent" and set "Custom range" From 9/15/2015 To 9/15/2020
+*press "Recent" and set "Custom range" From 1/01/2015 To 9/15/2020
 *press "Go"
 
 Expected result:
@@ -73,4 +74,18 @@ Steps:
 *press "Go"
 
 Expected result:
- Result will be "SEMrush acquires fast-growing SaaS PR tech company Prowly" from https://www.prnewswire.com/
+ Result will be "SEMrush acquires fast-growing SaaS PR tech company Prowly" from https://www.prnewswire.com/ 
+
+Test case 3. 
+Searching "Media Database | Prowly PR Software" via sort by date 
+
+Steps: 
+*open google.com
+*write "prowly" in the searchbox 
+*press Enter key or "Google Search" button
+*open "Videos" tab
+*press "Tools"
+*press "Any time" 
+*select "Past year"
+
+Expected result: first result should be "Media Database | Prowly PR Software" video.
