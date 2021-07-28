@@ -21,7 +21,7 @@ Steps:
 *click "Tools"
 *click "Type" and select "Clip-art"
 
-Expected result: Second picture should be Prowly Facebook home page.  
+Expected result: Second picture should be Prowly Facebook home page with clickable link.  
 
 
 Test case 3. Sending a 5 star review for Prowly at Google Maps and changing average rating. 
@@ -62,7 +62,7 @@ No result from https://www.prnewswire.com/
 Test case 2. Searching "prowly" in google.com with sort by date.
 
 Preconditions:
- "SEMrush acquires fast-growing SaaS PR tech company Prowly" news at https://www.prnewswire.com/ from 16.09.2020
+ "SEMrush acquires fast-growing SaaS PR tech company Prowly" news at https://www.prnewswire.com/ from 9/16/2020
 
 Steps: 
 *open google.com
